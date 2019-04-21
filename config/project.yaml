@@ -1,0 +1,33 @@
+dateModified: 1555876422
+email:
+  fromEmail: chanwhab@gmail.com
+  fromName: MTPICKD
+  transportType: craft\mail\transportadapters\Sendmail
+fieldGroups:
+  fd3a4c58-f5c6-443e-9584-8a865d788526:
+    name: Common
+siteGroups:
+  78d6968d-a8cc-46af-b9e9-9d1e4a1ed9de:
+    name: MTPICKD
+sites:
+  98206c15-d614-4b46-8d4a-d429d88d9ea3:
+    baseUrl: $DEFAULT_SITE_URL
+    handle: default
+    hasUrls: '1'
+    language: en-US
+    name: MTPICKD
+    primary: '1'
+    siteGroup: 78d6968d-a8cc-46af-b9e9-9d1e4a1ed9de
+    sortOrder: '1'
+system:
+  edition: pro
+  name: MTPICKS
+  live: true
+  schemaVersion: 3.1.27
+  timeZone: America/Los_Angeles
+users:
+  requireEmailVerification: true
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoVolumeUid: null
+  photoSubpath: ''
