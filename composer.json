@@ -1,6 +1,8 @@
 {
   "require": {
     "craftcms/cms": "^3.0.0",
+    "lukeyouell/craft-queue-manager": "1.1.0",
+    "superbig/craft3-http2serverpush": "1.0.1",
     "vlucas/phpdotenv": "^2.4.0"
   },
   "autoload": {

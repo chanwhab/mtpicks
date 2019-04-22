@@ -1,4 +1,4 @@
-dateModified: 1555876422
+dateModified: 1555959601
 email:
   fromEmail: chanwhab@gmail.com
   fromName: MTPICKD
@@ -6,6 +6,15 @@ email:
 fieldGroups:
   fd3a4c58-f5c6-443e-9584-8a865d788526:
     name: Common
+plugins:
+  queue-manager:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  http2-server-push:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
 siteGroups:
   78d6968d-a8cc-46af-b9e9-9d1e4a1ed9de:
     name: MTPICKD
